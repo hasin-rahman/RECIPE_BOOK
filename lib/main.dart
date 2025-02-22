@@ -150,7 +150,7 @@ class HomeScreen extends StatelessWidget {
       5. Add toppings like pepperoni, mushrooms, and bell peppers.
       6. Drizzle with olive oil and sprinkle oregano.
       7. Bake for 12-15 minutes until cheese is bubbly and crust is golden brown.
-      8. Let cool for a few minutes before slicing.
+      8. Let cool for a few minutes then slice it.
       """,
     },
   ];
